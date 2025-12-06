@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class numb1
 {
-     public static void getNumberBetween1And100() {
+     public static void main(String [] args) {
         Scanner scanner = new Scanner(System.in);
         int number;
         
