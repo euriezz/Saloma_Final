@@ -7,7 +7,7 @@
  */
 public class num4
 {
-    public static void findSmallestAndLargest() {
+    public static void main(String [] args) {
         int[] array = {5, 2, 9, 1, 5, 6};
         int smallest = array[0];
         int largest = array[0];
