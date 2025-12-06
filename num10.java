@@ -7,7 +7,7 @@
  */
 public class num10
 {
-     public static void findFirstEvenIndex() {
+     public static void main(String [] args) {
         int[] array = {1, 3, 5, 8, 9};
         int index = -1;
         
