@@ -7,7 +7,7 @@
  */
 public class num8
 {
-   public static void copyArrayAToB() {
+   public static void main(String [] args) {
         int[] arrayA = {1, 2, 3, 4, 5};
         int[] arrayB = new int[arrayA.length];
         
