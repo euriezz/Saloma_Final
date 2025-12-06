@@ -7,7 +7,7 @@
  */
 public class num6
 {
-    public static void computeAverageOfOdds() {
+    public static void main(String [] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int sum = 0;
         int count = 0;
