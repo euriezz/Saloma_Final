@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class num9
 {
-    public static void sumUntilZero() {
+    public static void main(String [] args) {
         Scanner scanner = new Scanner(System.in);
         int sum = 0;
         int input;
