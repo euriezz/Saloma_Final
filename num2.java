@@ -7,7 +7,7 @@
  */
 public class num2
 {
-    public static void countSevens() {
+    public static void main(String [] args) {
         int[] array = {1, 7, 3, 7, 5, 7, 8, 7, 9, 7};
         int count = 0;
         
