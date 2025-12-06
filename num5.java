@@ -7,7 +7,7 @@
  */
 public class num5
 {
-    public static void stopLoopEarly() {
+    public static void main(String [] args) {
         int[] array = {1, 3, 5, 7, 9, 11};
         int targetValue = 7;
         boolean found = false;
