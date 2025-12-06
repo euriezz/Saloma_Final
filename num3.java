@@ -7,7 +7,7 @@
  */
 public class num3
 {
-    public static void displayStarTriangle() {
+    public static void main(String [] args) {
         int numLines = 5;
         
         for (int i = 1; i <= numLines; i++) {
